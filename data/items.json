@@ -272,7 +272,7 @@
     "itemDescription": "Some rocks. Probably useless.",
     "gatherString": "You find a stone.",
     "id": 20,
-    "value": 1,
+    "value": 100000,
     "actionRequired": "Gather",
     "gatherSpeed": 500,
     "icon": "Ore"
